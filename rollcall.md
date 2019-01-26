@@ -6,3 +6,4 @@ Rollcall
 Name, Year, Major
 -------------------------------------------------
 * Howard Francis, Faculty, Math/Computer Science
+* Marissa Tucker, Senior, Computer Science
