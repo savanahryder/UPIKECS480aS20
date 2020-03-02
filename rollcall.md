@@ -6,4 +6,4 @@ Rollcall
 Name, Year, Major
 -------------------------------------------------
 * Howard Francis, Faculty, Math/Computer Science
-
+* Savanah Ryder, Senior , Computer Science
